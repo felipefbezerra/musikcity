@@ -26,7 +26,6 @@ header {
 header h2 {
     font-size: 50px; 
     font-weight: 400;
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5); 
 }
 
 header p {
@@ -41,9 +40,8 @@ h2 {
     font-size: 50px;
     text-align: center;
     margin-bottom: 20px;
-    font-family: "Jolly Lodger", serif;
     font-weight: 400;
-    font-style: normal;
+    font-family: "Jolly Lodger", serif;
 }
 
 p {
@@ -88,9 +86,8 @@ li{
 }
 
 #sobre h2 {
-    font-size: 2.8em;
-    font-weight: bold;
-    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.6); 
+    font-size: 50px;
+    font-weight: bold; 
     margin-bottom: 20px;
     z-index: 1; 
 }
@@ -171,9 +168,8 @@ li{
 nav {
     background: rgba(0, 52, 86, 0.8); 
     color: white;
-    font-family: "Geo", sans-serif;
-    font-style: italic;
-    font-size: 20px; 
+    font-family: "Jolly Lodger", serif;
+    font-size: 25px; 
     display: flex;
     justify-content: space-between; 
     align-items: center;
@@ -213,7 +209,8 @@ p {
 
 #servicos {
     text-align: center;
-    font-family: Arial, sans-serif;
+    font-family: "Jolly Lodger", serif;
+    font-size: 50px;
     background: rgba(0, 52, 86, 0.8); 
     color: white;
     position: relative;
@@ -222,7 +219,7 @@ p {
 }
 
 #servicos h2 {
-    font-size: 2em;
+    font-size: 50px;
     text-align: center;
     margin-bottom: 30px;
     color: white;
